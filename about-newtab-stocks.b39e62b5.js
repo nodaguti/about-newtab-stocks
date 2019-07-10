@@ -360,4 +360,3 @@ var e=arguments[3];"undefined"==typeof window&&(e.window={}),require("./dist/man
 },{"react":"HdMw","@material-ui/core/styles":"p0RM","@material-ui/core/AppBar":"U3ge","@material-ui/core/Toolbar":"XgSR","@material-ui/core/Typography":"b6wK","./ChartCard":"mwFe","../symbols":"MU/e","../reset.css":"1AQo"}],"/deH":[function(require,module,exports) {
 "use strict";var e=u(require("react")),t=u(require("react-dom")),r=require("./components/Main");function u(e){return e&&e.__esModule?e:{default:e}}t.default.render(e.default.createElement(r.Main,null),document.getElementById("root")),module.hot&&module.hot.accept();
 },{"react":"HdMw","react-dom":"X9zx","./components/Main":"yq7M"}]},{},["/deH"], null)
-//# sourceMappingURL=/about-newtab-stocks.3145caf7.js.map
