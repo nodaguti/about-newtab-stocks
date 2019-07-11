@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,iBAGE,qBAAsB,CACtB,SAAU,CACV,QACF","file":"about-newtab-stocks.53690a9a.css","sourceRoot":"..","sourcesContent":["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n"]}
